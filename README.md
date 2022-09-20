@@ -1,16 +1,23 @@
-# stepper
+# Stepper with native (Java) implementation
 
-A new Flutter project.
+## Results
+![](screenshots/recording.gif)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Flutter Doctor
 
-A few resources to get you started if this is your first Flutter project:
+``` dart
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Doctor summary (to see all details, run flutter doctor -v):
+[√] Flutter (Channel stable, 2.10.5, on Microsoft Windows [Version 10.0.19044.2006], locale en-PK)
+[√] Android toolchain - develop for Android devices (Android SDK version 33.0.0)
+[√] Chrome - develop for the web
+[√] Visual Studio - develop for Windows (Visual Studio Community 2019 16.11.9)
+[√] Android Studio (version 2021.3)
+[√] Android Studio
+[√] VS Code (version 1.70.1)
+[√] Connected device (4 available)
+[√] HTTP Host Availability
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+! Doctor found 0 issues.
+```
