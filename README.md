@@ -1,7 +1,9 @@
 # Stepper with native (Java) implementation
 
 ## Results
-![](screenshots/recording.gif)
+<p align="center">
+  <img src="screenshots/recording.gif" alt="results" width="256">
+</p>
 
 
 ## Flutter Doctor
